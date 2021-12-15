@@ -2,7 +2,7 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=someshnaman&label=Profile%20views&color=0e75b6&style=flat" alt="someshnaman" /> </p>
 
-- 💬 Ask me about **anything, I'd happy to collabrate.**
+- 💬 Ask me about **anything, I'm happy to collabrate.**
 
 - 📫 Let's have a healthy disccusion <a href="https://calendly.com/someshnaman" rel="nofollow">calendly</a>
 
