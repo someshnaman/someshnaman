@@ -1,4 +1,4 @@
-<h3 align="center">Hi, I'm Somesh, a passionate and Aspiring Data Scientist. I am enhancing my knowledge with the latest development in the field of Data Science with focus on Feature Engineering, Data pre-processing, Data collection (Web scraping) and model training.</h3>
+<h3 align="center">Hi, I'm Somesh, a passionate and Data Scientist. I am enhancing my knowledge with the latest development in the field of Data Science with focus on Feature Engineering, Data pre-processing, Data collection (Web scraping) and model training.</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=someshnaman&label=Profile%20views&color=0e75b6&style=flat" alt="someshnaman" /> </p>
 
